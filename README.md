@@ -1,2 +1,2 @@
 # vigilanteas
-A Bubble Tea Startup that uses better ingredients to satisfy
+A Bubble Tea Startup that uses better ingredients to satisfy your bubble tea needs!
