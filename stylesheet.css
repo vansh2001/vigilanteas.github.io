@@ -7,6 +7,10 @@
 	
 }
 
+.body {
+	background-color: #707B7C
+}
+
 /* Style the tab */
 .tab {
     overflow: hidden;
