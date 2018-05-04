@@ -48,7 +48,7 @@ body {
 
 .topnav a:hover {
 	border:0;
-	border-bottom: none; /*solid 1px grey;*/
+	border-bottom: solid 1px grey;
 }
 
 .topnav a.active {
