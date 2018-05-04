@@ -38,7 +38,7 @@ body {
  *-------------------------------------------------------------------------------------*/
 .topnav a{
 	float: right;
-	color: black;
+	color: none;
 	text-align: center;
 	padding: 10px 12px;
 	text-decoration:none;
