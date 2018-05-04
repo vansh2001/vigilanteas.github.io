@@ -13,11 +13,13 @@ body {
 }
 
 /* Style the tab */
+
 .tab {
     overflow: hidden;
-    border: 1px solid #ccc;
+    border: none /*1px solid #ccc;*/
     background-color: #f1f1f1;
 }
+
 
 /* Style the buttons inside the tab */
 .tab button {
@@ -32,7 +34,7 @@ body {
 }
 
 /*---------------------------------------------------------------------------------------
- *	Top navigation bar 
+ *	Top navigation bar
  *-------------------------------------------------------------------------------------*/
 .topnav a{
 	float: right;
