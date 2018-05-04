@@ -16,7 +16,7 @@ body {
 
 .tab {
     overflow: hidden;
-    border: none /*1px solid #ccc;*/
+    border: none; /*1px solid #ccc;*/
     background-color: #f1f1f1;
 }
 
