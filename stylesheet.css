@@ -1,8 +1,6 @@
 .heading {
 	font-family: Ubuntu, Helvetica, sans-serif;
-	font-size: 60px;
-	margin-right: auto;
-	margin-left: auto;
+	padding-top: 10px;
 	text-align: left;
 	color: #000000;
 }
@@ -16,7 +14,7 @@ body {
 
 .tab {
     overflow: hidden;
-    border: 1px solid #ccc;
+    border: 1px solid #cccc;
     background-color: #f1f1f1;
 }
 
@@ -39,14 +37,14 @@ body {
 	float: right;
 	color: black;
 	text-align: center;
-	padding: 10px 12px;
+	padding: 20px 12px;
 	text-decoration:none;
 	font-size: 15px;
 	font-family: Ubuntu, Helvetica, sans-serif;
 }
 
 .topnav a:hover {
-	border:0;
+	border:none;
 	border-bottom: none;
 }
 
@@ -60,18 +58,18 @@ body {
  *---------------------------------------------------------------------------------------*/
 .logo img {
 	display: block;
+	float: left;
 	margin-left: none;
 	margin-right: auto;
-
 	height: 60px;
 	width: 60px;
 }
 /*----------------------------------------------------------------------------------------
- *	Logo Container
+ *	Home Page pic Container
  *
  *---------------------------------------------------------------------------------------*/
  .main_pic img {
-	 position: absolute;
+	 position: relative;
    clip: rect(10px,3000px,610px,0px);
 	 display: block;
 	 margin-left: auto;
