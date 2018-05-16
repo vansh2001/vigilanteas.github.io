@@ -99,8 +99,11 @@ body {
  *
  *---------------------------------------------------------------------------------------*/
 
-div.gallery-margins {
-	padding-left:50px:
+/*this controls all the the gallery alignments*/
+.gallery-container {
+	display: block;
+  width: auto;
+	align: center;
 }
  div.gallery {
 	   display: block;
